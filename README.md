@@ -9,3 +9,6 @@ Projeyi cloneladiktan sonra VS Code ile açınız
 # Contributing
 Pull requestler kabul edilir.Büyük değişiklikler için lütfen neyi değiştirmek istediğiniz için bir tartışma konusu açınız.
 # License
+
+![Resim](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png)
+
